@@ -83,4 +83,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-/folder2/src/usecase/usecase
